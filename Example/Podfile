@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ISO3166_Example' do
+  pod 'ISO3166', :path => '../'
+
+  target 'ISO3166_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
