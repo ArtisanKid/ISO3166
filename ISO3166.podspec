@@ -30,8 +30,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ISO3166/Classes/**/*'
-  
+  s.source_files = 'ISO3166/Classes/**/*.{h,m,txt}'
+  s.preserve_paths = 'ISO3166/Classes/*.{md,doc,docx,pdf}'
+
   # s.resource_bundles = {
   #   'ISO3166' => ['ISO3166/Assets/*.png']
   # }

@@ -1,0 +1,249 @@
+AD:AND:020:安道尔:Andorra (Principality of)
+AE:ARE:784:阿拉伯联合酋长国:United Arab Emirates b
+AF:AFG:004:阿富汗:Afghanistan
+AG:ATG:028:安提瓜和巴布达:Antigua and Barbuda
+AI:AIA:660:安圭拉:Anguilla
+AL:ALB:008:阿尔巴尼亚:Albania (Republic of)
+AM:ARM:051:亚美尼亚:Armenia (Republic of)
+AO:AGO:024:安哥拉:Angola (Republic of)
+AQ:ATA:010:南极洲:NULL
+AR:ARG:032:阿根廷:Argentine Republic
+AS:ASM:016:美属萨摩亚(美国):American Samoa
+AT:AUT:040:奥地利:Austria
+AU:AUS:036:澳大利亚:Australia
+AW:ABW:533:阿鲁巴(荷兰王国):Aruba
+AX:ALA:248:奥兰:NULL
+AZ:AZE:031:阿塞拜疆:Azerbaijani Republic
+BA:BIH:070:波斯尼亚和黑塞哥维那:Bosnia and Herzegovina
+BB:BRB:052:巴巴多斯:Barbados
+BD:BGD:050:孟加拉国:Bangladesh (People's Republic of)
+BE:BEL:056:比利时:Belgium
+BF:BFA:854:布基纳法索:Burkina Faso
+BG:BGR:100:保加利亚:Bulgaria (Republic of)
+BH:BHR:048:巴林:Bahrain (Kingdom of)
+BI:BDI:108:布隆迪:Burundi (Republic of)
+BJ:BEN:204:贝宁:Benin (Republic of)
+BL:BLM:652:圣巴泰勒米:NULL
+BM:BMU:060:百慕大(英国):Bermuda
+BN:BRN:096:文莱:Brunei Darussalam
+BO:BOL:068:玻利维亚:Bolivia (Plurinational State of)
+BQ:BES:535:加勒比荷兰:NULL
+BR:BRA:076:巴西:Brazil (Federative Republic of)
+BS:BHS:044:巴哈马:Bahamas (Commonwealth of the)
+BT:BTN:064:不丹:Bhutan (Kingdom of)
+BV:BVT:074:布韦岛:NULL
+BW:BWA:072:博茨瓦纳:Botswana (Republic of)
+BY:BLR:112:白俄罗斯:Belarus (Republic of)
+BZ:BLZ:084:伯利兹:Belize
+CA:CAN:124:加拿大:Canada
+CC:CCK:166:科科斯(基林)群岛:NULL
+CD:COD:180:刚果民主共和国:Democratic Republic of the Congo
+CF:CAF:140:中非共和国:Central African Republic
+CG:COG:178:刚果共和国:Congo (Republic of the)
+CH:CHE:756:瑞士:Switzerland (Confederation of)
+CI:CIV:384:科特迪瓦:Côte d'Ivoire (Republic of)
+CK:COK:184:库克群岛(新西兰):Cook Islands
+CL:CHL:152:智利:Chile
+CM:CMR:120:喀麦隆:Cameroon (Republic of)
+CN:CHN:156:中国:China (People's Republic of)
+CO:COL:170:哥伦比亚:Colombia (Republic of)
+CR:CRI:188:哥斯达黎加:Costa Rica
+CU:CUB:192:古巴:Cuba
+CV:CPV:132:佛得角:Cape Verde (Republic of)
+CW:CUW:531:库拉索(荷兰王国):Netherlands Antilles
+CX:CXR:162:圣诞岛:NULL
+CY:CYP:196:塞浦路斯:Cyprus (Republic of)
+CZ:CZE:203:捷克:Czech Republic
+DE:DEU:276:德国:Germany (Federal Republic of)
+DJ:DJI:262:吉布提:Djibouti (Republic of)
+DK:DNK:208:丹麦:Denmark
+DM:DMA:212:多米尼克:Dominica (Commonwealth of)
+DO:DOM:214:多米尼加共和国:Dominican Republic
+DZ:DZA:012:阿尔及利亚:Algeria (People's Democratic Republic of)
+EC:ECU:218:厄瓜多尔:Ecuador
+EE:EST:233:爱沙尼亚:Estonia (Republic of)
+EG:EGY:818:埃及:Egypt (Arab Republic of)
+EH:ESH:732:阿拉伯撒哈拉民主共和国:NULL
+ER:ERI:232:厄立特里亚:Eritrea
+ES:ESP:724:西班牙:Spain
+ET:ETH:231:埃塞俄比亚:Ethiopia (Federal Democratic Republic of)
+FI:FIN:246:芬兰:Finland
+FJ:FJI:242:斐济:Fiji (Republic of)
+FK:FLK:238:福克兰群岛(英国):Falkland Islands (Malvinas)
+FM:FSM:583:密克罗尼西亚联邦:Micronesia (Federated States of)
+FO:FRO:234:法罗群岛(丹麦):Faroe Islands
+FR:FRA:250:法国:France
+GA:GAB:266:加蓬:Gabonese Republic
+GB:GBR:826:英国:United Kingdom of Great Britain and Northern Ireland
+GD:GRD:308:格林纳达:Grenada
+GE:GEO:268:格鲁吉亚:Georgia
+GF:GUF:254:法属圭亚那(法国):French Guiana (French Department of)
+GG:GGY:831:根西:NULL
+GH:GHA:288:加纳:Ghana
+GI:GIB:292:直布罗陀(英国):Gibraltar
+GL:GRL:304:格陵兰(丹麦):Greenland (Denmark)
+GM:GMB:270:冈比亚:Gambia (Republic of the)
+GN:GIN:324:几内亚:Guinea (Republic of)
+GP:GLP:312:瓜德罗普(法国):Guadeloupe (French Department of)
+GQ:GNQ:226:赤道几内亚:Equatorial Guinea (Republic of)
+GR:GRC:300:希腊:Greece
+GS:SGS:239:南乔治亚和南桑威奇群岛:NULL
+GT:GTM:320:危地马拉:Guatemala (Republic of)
+GU:GUM:316:关岛(美国):NULL
+GW:GNB:624:几内亚比绍:Guinea-Bissau (Republic of)
+GY:GUY:328:圭亚那:Guyana
+HK:HKG:344:香港(中国):Hong Kong, China
+HM:HMD:334:赫德岛和麦克唐纳群岛:NULL
+HN:HND:340:洪都拉斯:Honduras (Republic of)
+HR:HRV:191:克罗地亚:Croatia (Republic of)
+HT:HTI:332:海地:Haiti (Republic of)
+HU:HUN:348:匈牙利:Hungary (Republic of)
+ID:IDN:360:印度尼西亚:Indonesia (Republic of)
+IE:IRL:372:爱尔兰共和国:Ireland
+IL:ISR:376:以色列:Israel (State of)
+IM:IMN:833:曼岛:NULL
+IN:IND:356:印度:India (Republic of)
+IO:IOT:086:英属印度洋领地:NULL
+IQ:IRQ:368:伊拉克:Iraq (Republic of)
+IR:IRN:364:伊朗:Iran (Islamic Republic of)
+IS:ISL:352:冰岛:Iceland
+IT:ITA:380:意大利:Italy
+JE:JEY:832:泽西:NULL
+JM:JAM:388:牙买加:Jamaica
+JO:JOR:400:约旦:Jordan (Hashemite Kingdom of)
+JP:JPN:392:日本:Japan
+KE:KEN:404:肯尼亚:Kenya (Republic of)
+KG:KGZ:417:吉尔吉斯斯坦:Kyrgyz Republic
+KH:KHM:116:柬埔寨:Cambodia (Kingdom of)
+KI:KIR:296:基里巴斯:Kiribati (Republic of)
+KM:COM:174:科摩罗:Comoros (Union of the)
+KN:KNA:659:圣基茨和尼维斯:Saint Kitts and Nevis
+KP:PRK:408:朝鲜:Democratic People's Republic of Korea
+KR:KOR:410:韩国:Korea (Republic of)
+KW:KWT:414:科威特:Kuwait (State of)
+KY:CYM:136:开曼群岛(英国):Cayman Islands
+KZ:KAZ:398:哈萨克斯坦:Kazakhstan (Republic of)
+LA:LAO:418:老挝:Lao People's Democratic Republic
+LB:LBN:422:黎巴嫩:Lebanon
+LC:LCA:662:圣卢西亚:Saint Lucia
+LI:LIE:438:列支敦士登:Liechtenstein (Principality of)
+LK:LKA:144:斯里兰卡:Sri Lanka (Democratic Socialist Republic of)
+LR:LBR:430:利比里亚:Liberia (Republic of)
+LS:LSO:426:莱索托:Lesotho (Kingdom of)
+LT:LTU:440:立陶宛:Lithuania (Republic of)
+LU:LUX:442:卢森堡:Luxembourg
+LV:LVA:428:拉脱维亚:Latvia (Republic of)
+LY:LBY:434:利比亚:Libya (Socialist People's Libyan Arab Jamahiriya)
+MA:MAR:504:摩洛哥:Morocco (Kingdom of)
+MC:MCO:492:摩纳哥:Monaco (Principality of)
+MD:MDA:498:摩尔多瓦:Moldova (Republic of)
+ME:MNE:499:黑山共和国:Montenegro (Republic of)
+MF:MAF:663:法属圣马丁:NULL
+MG:MDG:450:马达加斯加:Madagascar (Republic of)
+MH:MHL:584:马绍尔群岛:Marshall Islands (Republic of the)
+MK:MKD:807:卢森堡:The Former Yugoslav Republic of Macedonia
+ML:MLI:466:马里共和国:Mali (Republic of)
+MM:MMR:104:缅甸:Myanmar (Union of)
+MN:MNG:496:蒙古国:Mongolia
+MO:MAC:446:澳门(中国):Macao, China
+MP:MNP:580:北马里亚纳群岛(美国):NULL
+MQ:MTQ:474:马提尼克(法国):Guadeloupe (French Department of)
+MR:MRT:478:毛里塔尼亚:Mauritania (Islamic Republic of)
+MS:MSR:500:蒙塞拉特岛(英国):Montserrat
+MT:MLT:470:马耳他:Malta
+MU:MUS:480:毛里求斯:Mauritius (Republic of)
+MV:MDV:462:马尔代夫:Maldives (Republic of)
+MW:MWI:454:马拉维:Malawi
+MX:MEX:484:墨西哥:Mexico
+MY:MYS:458:马来西亚:Malaysia
+MZ:MOZ:508:莫桑比克:Mozambique (Republic of)
+NA:NAM:516:纳米比亚:Namibia (Republic of)
+NC:NCL:540:新喀里多尼亚(法国):New Caledonia (Territoire français d'outre-mer)
+NE:NER:562:尼日尔:Niger (Republic of the)
+NF:NFK:574:诺福克岛:NULL
+NG:NGA:566:尼日利亚:Nigeria (Federal Republic of)
+NI:NIC:558:尼加拉瓜:Nicaragua
+NL:NLD:528:荷兰:Netherlands (Kingdom of the)
+NO:NOR:578:挪威:Norway
+NP:NPL:524:尼泊尔:Nepal (Federal Democratic Republic of)
+NR:NRU:520:瑙鲁:Nauru (Republic of)
+NU:NIU:570:纽埃:NULL
+NZ:NZL:554:新西兰:New Zealand
+OM:OMN:512:阿曼:Oman (Sultanate of)
+PA:PAN:591:巴拿马:Panama (Republic of)
+PE:PER:604:秘鲁:Peru
+PF:PYF:258:法属波利尼西亚(法国):French Polynesia (Territoire français d'outre-mer)
+PG:PNG:598:巴布亚新几内亚:Papua New Guinea
+PH:PHL:608:菲律宾:Philippines (Republic of the)
+PK:PAK:586:巴基斯坦:Pakistan (Islamic Republic of)
+PL:POL:616:波兰:Poland (Republic of)
+PM:SPM:666:圣皮埃尔和密克隆群岛(法国):Saint Pierre and Miquelon (Collectivité territoriale de la République
+PN:PCN:612:皮特凯恩群岛:NULL
+PR:PRI:630:波多黎各(美国):Puerto Rico
+PS:PSE:275:巴勒斯坦:Israel (State of)
+PT:PRT:620:葡萄牙:Portugal
+PW:PLW:585:帕劳:Palau (Republic of)
+PY:PRY:600:巴拉圭:Paraguay (Republic of)
+QA:QAT:634:卡塔尔:Qatar (State of)
+RE:REU:638:留尼旺(法国):French Departments and Territories in the Indian Ocean
+RO:ROU:642:罗马尼亚:Romania
+RS:SRB:688:塞尔维亚共和国:Serbia (Republic of)
+RU:RUS:643:俄罗斯:Russian Federation
+RW:RWA:646:卢旺达:Rwanda (Republic of)
+SA:SAU:682:沙特阿拉伯:Saudi Arabia (Kingdom of)
+SB:SLB:090:所罗门群岛:Solomon Islands
+SC:SYC:690:塞舌尔:Seychelles (Republic of)
+SD:SDN:729:苏丹:Sudan (Republic of the)
+SE:SWE:752:瑞典:Sweden
+SG:SGP:702:新加坡:Singapore (Republic of)
+SH:SHN:654:圣赫勒拿:NULL
+SI:SVN:705:斯洛文尼亚:Slovenia (Republic of)
+SJ:SJM:744:斯瓦尔巴群岛和扬马延岛:NULL
+SK:SVK:703:斯洛伐克:Slovak Republic
+SL:SLE:694:塞拉利昂共和国:Sierra Leone
+SM:SMR:674:圣马力诺:San Marino (Republic of)
+SN:SEN:686:塞内加尔:Senegal (Republic of)
+SO:SOM:706:索马里:Somali Democratic Republic
+SR:SUR:740:苏里南:Suriname (Republic of)
+SS:SSD:728:南苏丹:NULL
+ST:STP:678:圣多美和普林西比:Sao Tome and Principe (Democratic Republic of)
+SV:SLV:222:萨尔瓦多:El Salvador (Republic of)
+SX:SXM:534:荷属圣马丁:NULL
+SY:SYR:760:叙利亚:Syrian Arab Republic
+SZ:SWZ:748:斯威士兰:Swaziland (Kingdom of)
+TC:TCA:796:特克斯和凯科斯群岛(英国):Turks and Caicos Islands
+TD:TCD:148:查德:Chad (Republic of)
+TF:ATF:260:法属南部领地:NULL
+TG:TGO:768:多哥:Togolese Republic
+TH:THA:764:泰国:Thailand
+TJ:TJK:762:塔吉克斯坦:Tajikistan (Republic of)
+TK:TKL:772:托克劳:NULL
+TL:TLS:626:东帝汶:Democratic Republic of Timor-Leste
+TM:TKM:795:土库曼斯坦:Turkmenistan
+TN:TUN:788:突尼斯:Tunisia
+TO:TON:776:汤加:Tonga (Kingdom of)
+TR:TUR:792:土耳其:Turkey
+TT:TTO:780:特立尼达和多巴哥:Trinidad and Tobago
+TV:TUV:798:图瓦卢:NULL
+TW:TWN:158:台湾(中国):Taiwan, China
+TZ:TZA:834:坦桑尼亚:Tanzania (United Republic of)
+UA:UKR:804:乌克兰:Ukraine
+UG:UGA:800:乌干达:Uganda (Republic of)
+UM:UMI:581:美国本土外小岛屿:NULL
+US:USA:840:美国:United States of America
+UY:URY:858:乌拉圭:Uruguay (Eastern Republic of)
+UZ:UZB:860:乌兹别克斯坦:Uzbekistan (Republic of)
+VA:VAT:336:梵蒂冈:Vatican City State
+VC:VCT:670:圣文森及格林纳丁:Saint Vincent and the Grenadines
+VE:VEN:862:委内瑞拉:Venezuela (Bolivarian Republic of)
+VG:VGB:092:英属维尔京群岛(英国):British Virgin Islands
+VI:VIR:850:美属维尔京群岛(美国):United States Virgin Islands
+VN:VNM:704:越南:Viet Nam (Socialist Republic of)
+VU:VUT:548:瓦努阿图:Vanuatu (Republic of)
+WF:WLF:876:瓦利斯和富图纳群岛(法国):Wallis and Futuna (Territoire français d'outre-mer)
+WS:WSM:882:萨摩亚:Samoa (Independent State of)
+YE:YEM:887:也门:Yemen (Republic of)
+YT:MYT:175:马约特:NULL
+ZA:ZAF:710:南非:South Africa (Republic of)
+ZM:ZMB:894:赞比亚:Zambia (Republic of)
+ZW:ZWE:716:津巴布韦:Zimbabwe (Republic of)
