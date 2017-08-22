@@ -35,7 +35,8 @@ typedef NS_ENUM(NSUInteger, ISOCountryItem) {
     dispatch_once(&onceToken, ^{
         sharedInstances = [NSMutableArray array];
         
-        NSString *path = [[NSBundle mainBundle] pathForResource:@"ISO国家信息" ofType:@".txt"];
+        NSBundle *currentBundle = [NSBundle bundleForClass:[self class]];
+        NSString *path = [currentBundle pathForResource:@"ISO国家信息" ofType:@"txt"];
         
         NSError *error = nil;
         NSString *content = [NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:&error];
@@ -48,6 +49,10 @@ typedef NS_ENUM(NSUInteger, ISOCountryItem) {
         NSArray<NSString *> *components = [content componentsSeparatedByString:@"\n"];
         for(NSString *component in components) {
             NSArray<NSString *> *items = [component componentsSeparatedByString:@":"];
+            
+            if(items.count < 5) {
+                continue;
+            }
             
             ISOCountry *country = [[ISOCountry alloc] init];
             country.code = items[ISOCountryItemCode];
