@@ -56,10 +56,10 @@ typedef NS_ENUM(NSUInteger, ISOCountryItem) {
             
             ISOCountry *country = [[ISOCountry alloc] init];
             country.code = items[ISOCountryItemCode];
-            country.code = items[ISOCountryItemCode3];
-            country.code = items[ISOCountryItemNumber];
-            country.code = items[ISOCountryItemCName];
-            country.code = items[ISOCountryItemEName];
+            country.code3 = items[ISOCountryItemCode3];
+            country.number = items[ISOCountryItemNumber];
+            country.cName = items[ISOCountryItemCName];
+            country.eName = items[ISOCountryItemEName];
             
             [sharedInstances addObject:country];
         }
@@ -75,7 +75,8 @@ typedef NS_ENUM(NSUInteger, ISOCountryItem) {
  */
 + (ISOCountry *)countryOfCode:(NSString *)code {
     NSPredicate *predicate = [NSPredicate predicateWithFormat:@"code == %@ OR code3 == %@", code, code];
-    return [self.countries filteredArrayUsingPredicate:predicate].lastObject;
+    NSArray<ISOCountry *> *countries = [self.countries filteredArrayUsingPredicate:predicate];
+    return countries.lastObject;
 }
 
 /**
@@ -86,7 +87,8 @@ typedef NS_ENUM(NSUInteger, ISOCountryItem) {
  */
 + (ISOCountry *)countryOfNumber:(NSString *)number {
     NSPredicate *predicate = [NSPredicate predicateWithFormat:@"number == %@", number];
-    return [self.countries filteredArrayUsingPredicate:predicate].lastObject;
+    NSArray<ISOCountry *> *countries = [self.countries filteredArrayUsingPredicate:predicate];
+    return countries.lastObject;
 }
 
 @end
